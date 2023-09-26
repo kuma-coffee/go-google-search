@@ -1,5 +1,5 @@
 # go-google-search
-Build Golang search using Google
+Build Golang search using Google for spesific URL w3schools.com
 
 ## add .env
 API_KEY: open this [tutorila](https://joeyism.medium.com/custom-google-search-api-fbbafe4711eb) <br />
@@ -13,4 +13,5 @@ QUERY: what you searching on web/url
 [open this link](https://github.com/googleapis/google-api-go-client/blob/main/examples/customsearch.go)
 
 ## create search engine tutorial
-[open this link](https://support.google.com/programmable-search/answer/11082370?hl=en&ref_topic=4513742&sjid=1176126022717969631-AP)
+[open this link](https://support.google.com/programmable-search/answer/11082370?hl=en&ref_topic=4513742&sjid=1176126022717969631-AP) <br />
+[open this link](https://www.youtube.com/watch?v=H1yCABqDR_Q)
